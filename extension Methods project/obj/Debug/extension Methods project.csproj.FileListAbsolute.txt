@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\extension Methods project\extension Methods project\bin\Debug\extension Methods project.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\extension Methods project\extension Methods project\bin\Debug\extension Methods project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\extension Methods project\extension Methods project\bin\Debug\extension Methods project.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\extension Methods project\extension Methods project\obj\Debug\extension Methods project.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\extension Methods project\extension Methods project\obj\Debug\extension Methods project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\extension Methods project\extension Methods project\obj\Debug\extension Methods project.pdb
